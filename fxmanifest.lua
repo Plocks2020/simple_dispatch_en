@@ -2,7 +2,7 @@ fx_version 'bodacious'
 game 'gta5'
 
 author "Plocks#2019"
-description "A simple reduce Npc script by Plocks https://discord.gg/R8Hsyk9vFE"
+description "A simple dispatch script by Plocks https://discord.gg/R8Hsyk9vFE"
 
 
 server_scripts {
